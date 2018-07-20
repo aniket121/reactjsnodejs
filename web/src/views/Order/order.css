@@ -1,0 +1,16 @@
+.table-bordered thead th, .table-bordered thead td{
+  background-color: #2f353a;
+  border-bottom-width: 2px;
+  font-weight: unset;
+  color: white
+}
+
+.search-color{
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-color: #fbc108;
+}
+
+.mt-4, .my-4 {
+  margin-top: -0.5rem !important;
+}

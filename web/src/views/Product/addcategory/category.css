@@ -1,0 +1,19 @@
+
+element.style {
+    width: 39%;
+    min-height: 332px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -25%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 2px;
+    z-index: 100;
+    padding: 15px;
+    box-shadow: rgba(0, 0, 0, 0.14) 0px 0px 4px, rgba(0, 0, 0, 0.28) 0px 4px 8px;
+    transform: scale(1);
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-duration: 200ms;
+}

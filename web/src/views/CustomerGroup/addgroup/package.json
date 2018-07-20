@@ -1,0 +1,6 @@
+{
+  "name": "AddGroup",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AddGroup.js"
+}

@@ -1,0 +1,16 @@
+.input-group-text{
+    padding: 0.6rem 0.75rem;
+}
+.errvalidcolor{
+    color: "red";
+    margin-top : "-3%";
+}
+a:not([href]):not([tabindex]) {
+    color:#00aced;
+    text-decoration: none;
+}
+
+div.skylight-dialog{
+    height : 400px;
+    overflow:scroll;
+}

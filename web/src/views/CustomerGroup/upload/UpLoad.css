@@ -1,0 +1,11 @@
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid rgba(7, 34, 15, 0.1);
+    background-color: #ffc107;
+}
+
+control.is-valid, .was-validated .custom-select:valid, .custom-select.is-valid {
+    border-color: #ffc107;
+}
